@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerson Garrido</h1>
-<h3 align="center">Software Engineer from Perú A passionate frontend developer from India</h3>
+<h3 align="center">Software Engineer from Perú A passionate frontend developer from Perú</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gersongams&label=Profile%20views&color=0e75b6&style=flat" alt="gersongams" /> </p>
 
